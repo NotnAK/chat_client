@@ -1,0 +1,9 @@
+
+m	java:S106
+"+Replace this use of System.out by a logger.(¾¨ Ş8ÏÁÙÌˆ2J$fbaa2fbd-7052-48a9-a1cb-20e031875d0d
+r	java:S106"+Replace this use of System.out by a logger.(í–êŞûÿÿÿÿ8ğ¤‚Ïˆ2J$132191f4-8c27-4b60-890f-8c5f0e8869b6
+m	java:S106"+Replace this use of System.out by a logger.(êÅÆŸ8á”›çˆ2J$8f7bd94d-d07e-4bbd-96a2-1509d209cab0
+m	java:S106"+Replace this use of System.out by a logger.(¦ì¿ƒ8øİÊíˆ2J$30db098b-4e0c-49d2-85a1-201ec474428f
+m	java:S106$"+Replace this use of System.out by a logger.(ºæìê8¯„Ííˆ2J$15ce1c3d-c03b-499a-b840-458a773b907b
+r
+java:S2093	"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8İÁÙÌˆ2J$8fbc3ae0-933e-4ed5-bd18-9edc4a4c11e4

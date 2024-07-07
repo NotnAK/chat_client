@@ -1,0 +1,6 @@
+
+¦
+java:S2142;"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(±Ÿ—±ÿÿÿÿÿ8±µçëˆ2J$b763831b-2432-4d08-8557-e48c775a2057
+s
+java:S1874 "+Remove this use of "URL"; it is deprecated.(‘Îú›úÿÿÿÿ8Õèæëˆ2J$9d236d7b-df9f-42d0-ad44-4226b780752f
+r	java:S106,"+Replace this use of System.out by a logger.(à¿öÑúÿÿÿÿ8Þèæëˆ2J$e1f43011-b9f3-4893-8be5-4b25f0ac82b6
